@@ -1,1 +1,4 @@
-.jsp
+/target/
+*/target/**
+**/META-INF/
+.idea
